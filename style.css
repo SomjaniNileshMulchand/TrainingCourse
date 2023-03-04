@@ -407,6 +407,16 @@ li:hover{
     flex-direction: column;
     justify-content: center;
   }
+  .course{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
 }
 
 @media  (max-width: 1300px) {
