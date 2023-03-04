@@ -388,16 +388,16 @@ li:hover{
 }
 @media (max-width:1300px) {
   .train{
-    text-align: center;
+    text-align: right;
   }
   .find{
-    text-align: center;
+    text-align: right;
   }
   .for{
-    text-align: center;
+    text-align: right;
   }
   .start{
-    text-align: center;
+    text-align: right;
   }
 }
 
